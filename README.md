@@ -28,10 +28,8 @@ I'm a final-year BS Cyber Security student at **FAST-NUCES** (graduating Dec 202
 
 ## 🚀 Featured Project
 
-### 🛰️ [ReconSentinel](https://github.com/Umer-Fazal)
+### 🛰️ [ReconSentinel](https://github.com/Umer-Fazal/reconsentinel)
 An open-source reconnaissance pipeline that automates the recon phase of security assessments.
-
-> 📌 *Pin ReconSentinel and your best repos at the top of your profile.*
 
 ---
 
